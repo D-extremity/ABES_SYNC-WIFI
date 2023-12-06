@@ -1,7 +1,11 @@
 # ABES_SYNC-WIFI
 
 
-https://github.com/D-extremity/ABES_SYNC-WIFI/assets/83233310/4a4448dd-a4b2-4f72-aac0-08354e3a9f06
+
+
+https://github.com/D-extremity/ABES_SYNC-WIFI/assets/83233310/69ada1dd-5a77-4a10-9550-55b4889cc61a
+
+
 
 
 
