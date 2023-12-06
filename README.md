@@ -2,6 +2,10 @@
 
 
 
+[![Downloads](https://img.shields.io/github/downloads/D-extremity/ABES_SYNC-WIFI/total)](https://github.com/D-extremity/ABES_SYNC-WIFI/releases/latest/abes_sync.exe)
+
+
+
 
 https://github.com/D-extremity/ABES_SYNC-WIFI/assets/83233310/69ada1dd-5a77-4a10-9550-55b4889cc61a
 
