@@ -1,9 +1,6 @@
 # ABES_SYNC-WIFI
 
-# abes_sync_v1.0 downloads : 225+
-abes_sync_v2.0 :  [![Downloads](https://img.shields.io/github/downloads/D-extremity/ABES_SYNC-WIFI/total)](https://github.com/D-extremity/ABES_SYNC-WIFI/releases/latest/abes_sync.exe)
-
-
+# abes_sync_v1.0 downloads : 245+
 
 
 
