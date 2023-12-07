@@ -1,9 +1,17 @@
 # ABES_SYNC-WIFI
-
-
-
 [![Downloads](https://img.shields.io/github/downloads/D-extremity/ABES_SYNC-WIFI/total)](https://github.com/D-extremity/ABES_SYNC-WIFI/releases/latest/abes_sync.exe)
 
+
+
+
+
+
+https://github.com/D-extremity/ABES_SYNC-WIFI/assets/83233310/3407392c-3037-4c81-8bf9-5588cc82c07c
+
+
+
+
+https://github.com/D-extremity/ABES_SYNC-WIFI/assets/83233310/e47f20c3-ff33-4795-85e9-3958e4a1fe70
 
 
 
